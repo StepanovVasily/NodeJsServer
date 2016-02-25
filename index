@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Привет!</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body style="color:#fff;background:#000;">
+        <h1>Это главная страница</h1>
+        <p>Привет!</p>
+    </body>
+</html>
